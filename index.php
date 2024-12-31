@@ -8,7 +8,7 @@
     <h1>My First Application Deployed</h1>
 
     <?php
-        echo "Hello Python! Brainware Seccom 2024";
+        echo "Hello Php!";
     ?>
 
 </body>
