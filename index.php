@@ -8,7 +8,7 @@
     <h1>My First Application Deployed</h1>
 
     <?php
-        echo "Hello Php!";
+        echo "Hello Rupsa!";
     ?>
 
 </body>
